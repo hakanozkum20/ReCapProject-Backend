@@ -1,0 +1,8 @@
+{
+    "dataworkspace.excludedProjects": [
+        "CarData/CarData.sqlproj"
+    ],
+    "objectscript.conn": {
+        "active": true
+    }
+}
